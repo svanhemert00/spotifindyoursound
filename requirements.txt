@@ -1,0 +1,7 @@
+pandas==1.5.3
+SQLAlchemy==1.4.22
+pymysql==1.0.2
+spotipy==2.19.0
+scikit-learn==1.0.2
+plotly==5.3.1
+humanize==4.9.0
