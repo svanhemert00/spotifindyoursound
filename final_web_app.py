@@ -1,13 +1,3 @@
-pip install --upgrade pandas
-pip install --upgrade numpy
-pip install --upgrade streamlit
-pip install --upgrade sqlalchemy
-pip install --upgrade pymysql
-pip install --upgrade spotipy
-pip install --upgrade scikit-learn
-pip install --upgrade plotly
-pip install --upgrade humanize
-
 ### Library Imports ###
 import streamlit as st
 import pandas as pd
